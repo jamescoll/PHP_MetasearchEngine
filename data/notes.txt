@@ -1,0 +1,17 @@
+/* 
+This version of Metasearch now supports
+
+-Aggregation (CombMNZ)
+-Clustering (K-Means)
+-Query Rewrite (thesaurus look-up, boolean searches)
+-Stemming (Prior to clustering via Porterstemmer)
+-Stopword Removal (Prior to clustering)
+
+
+Items which are not yet finished are
+
+-Survey (via MySql)
+-Metrics (still waiting on the golden lists)
+
+
+*/
