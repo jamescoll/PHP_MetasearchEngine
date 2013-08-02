@@ -12,3 +12,6 @@ A Metasearch Engine which satisfies the following requirements:
 6. Query Refinement
 7. User Evaluation
 
+This repository includes third party code from:
+http://sourceforge.net/projects/simplehtmldom/ (Porterstemmer)
+http://getbootstrap.com/ (Bootstrap)
